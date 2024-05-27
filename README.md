@@ -41,14 +41,14 @@ As técnicas e tecnologias utilizadas foram:
 
 - Função para criação das listas de números sorteados e que não se repetem, tornando mais lógico o jogo e menos previsível.
 
-      function gearNumeroAleatorio() {
+      function gerarNumeroAleatorio() {
           let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1);
           let quantidadeDeElementosNaLista = listaDeNumerosSorteados.length;
           if(quantidadeDeElementosNaLista == numeroLimite) {
               listaDeNumerosSorteados = [];
           }
           if (listaDeNumerosSorteados.includes(numeroEscolhido)){
-              return gearNumeroAleatorio();        
+              return gerarNumeroAleatorio();        
           }else{
               listaDeNumerosSorteados.push(numeroEscolhido);
               return numeroEscolhido;
