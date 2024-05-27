@@ -26,7 +26,7 @@ As técnicas e tecnologias utilizadas foram:
 
 - `HTML`: criação dos elementos da tela;
 - `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos para geração automática do número secreto.
+- `JavaScript`: construção de elementos dinâmicos para geração automática do número secreto e do consumo da API de voice speech, comentando os comandos do jogo, tornando a experiência do usuário mais legal e divertida.
 
 #
 ## Detalhamento de trechos do código
