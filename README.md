@@ -2,7 +2,7 @@
 
 # Jogo da Adivinhação v 2.0
 
-Aplicação web em formato de jogo onde o usuário digita um número no console `clicando em chutar` o sistema faz um aviso viasual e sonoro se houve ou não o acerto. Uma variável armazena o número aleatório e o usuário tenta adivinhar em menos tentativas possíveis.
+Aplicação web em formato de jogo onde o usuário digita um número no console `clicando em chutar` o sistema faz um aviso visual e sonoro se houve ou não o acerto. Uma variável armazena o número aleatório e o usuário tenta adivinhar em menos tentativas possíveis.
 
 ## 🔨 Funcionalidades do projeto
 
