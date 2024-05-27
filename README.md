@@ -1,0 +1,1 @@
+# JogoDaAdivinhacao_2.0
